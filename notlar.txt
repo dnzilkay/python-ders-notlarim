@@ -1,0 +1,3 @@
+Bu ilk satırdır.
+Python dosya işlemleri çok kolay!
+Bu satır eklenmiştir.
